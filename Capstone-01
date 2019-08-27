@@ -1,0 +1,5 @@
+This project will mainly be used for the Capstone project 
+import requests # to handle requests
+import pandas as pd # for data analsysis
+import numpy as np # to handle data in a vectorized manner
+print("Hello Capstone Project Course!")
